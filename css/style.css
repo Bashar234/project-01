@@ -1,0 +1,41 @@
+.poppins {
+  font-family: "Fira Code", monospace;
+  font-family: "Poppins", sans-serif;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+.aser {
+  color: orange;
+}
+
+img {
+  height: 7000 px;
+  width: 400px;
+}
+
+section {
+  display: flex;
+}
+
+.half-width img {
+  width: 80%;
+  padding-left: 10%;
+}
+.half-width1 {
+  background-color: aqua;
+}
+
+.half-width2 {
+  background-color: plum;
+}
+.button {
+  text-decoration: none;
+  padding: 10px 40px;
+  border-radius: 10px;
+  background-image: linear-gradient(orange, tomato);
+  color: aliceblue;
+  font-weight: bold;
+}
